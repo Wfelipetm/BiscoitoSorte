@@ -1,0 +1,2 @@
+# BiscoitoSorte
+ O projeto é um aplicativo móvel desenvolvido com React Native que simula a experiência de quebrar um biscoito da sorte virtual. Quando o usuário clica no botão "Quebrar biscoito", o aplicativo gera uma mensagem inspiradora aleatória que é exibida na tela, juntamente com a imagem de um biscoito da sorte aberto. O objetivo é proporcionar aos usuários mensagens motivacionais e enigmáticas de forma divertida e interativa.
